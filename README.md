@@ -4,7 +4,6 @@ A beautiful and intuitive expense tracking application built with Flutter. Track
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.10+-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.10+-0175C2?logo=dart&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## ✨ Features
 
@@ -22,11 +21,6 @@ A beautiful and intuitive expense tracking application built with Flutter. Track
 - ✅ **Form Validation**: Input validation with user-friendly error messages
 - 📅 **Date Picker**: Easy date selection for expense entries
 - 🎨 **Modern UI**: Clean and modern interface with gradient charts
-
-## 📸 Screenshots
-
-<!-- Add your screenshots here -->
-*Screenshots coming soon...*
 
 ## 🚀 Getting Started
 
@@ -160,10 +154,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
 
