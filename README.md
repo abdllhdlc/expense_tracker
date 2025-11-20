@@ -41,7 +41,7 @@ A beautiful and intuitive expense tracking application built with Flutter. Track
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/expense_tracker.git
+   git clone https://github.com/abdllhdlc/expense_tracker.git
    cd expense_tracker
    ```
 
@@ -168,7 +168,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@abdllhdlc](https://github.com/abdllhdlc)
 
 ## 🙏 Acknowledgments
 
